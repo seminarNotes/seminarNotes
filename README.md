@@ -2,11 +2,14 @@
 
 Thank you for visiting my GitHub page.
 
-I am currently studying data engineering and have experience as a numerical analysis developer for the past few years. In addition to data engineering and quant development, I have a broad interest in various programming languages and theories. So I strive to find better solutions through exploration and learning of new technologies and tools.
+I am currently immersed in the study of data engineering and bring with me years of experience as a numerical analysis developer. Beyond my focus on data engineering and quant development, I maintain a wide-ranging interest in various programming languages and theories. My goal is to discover improved solutions by exploring and mastering new technologies and tools.
 
-I will document my studies and challenges on my GitHub. I am Korean, so most of my posts will be written in my native language. If you ever need English to understand my content, do not hesitate to ask me for assistance.
+I will be documenting my studies and challenges right here on my GitHub. Despite the prevalence of English among users, I've decided to primarily compose my posts in my native language, Korean. This choice is driven by my commitment to keeping my records concise and dedicating more time to the study of computer programming. If you ever find the need for English translations to understand my content, please do not hesitate to ask for assistance.
 
-As a developer open to opportunities for communication and sharing, I look forward to the chance to grow and learn together. Please feel free to reach out at any time.
+As a developer who values opportunities for communication and sharing, I am excited about the prospect of growing and learning together. Please feel free to reach out at any time.
+
+Best regards,
+SeminarNotes
 
 #### 📚 STACKS
 Programming Languages:
