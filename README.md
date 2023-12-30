@@ -1,10 +1,10 @@
 #### 👋 HELLO
 
-Thank you for visiting my GitHub page. I am currently studying data engineering and have experience as a numerical analysis developer for the past few years.
+Thank you for visiting my GitHub page.
 
-In addition to data engineering and quant development, I have a broad interest in various programming languages and theories. So I strive to find better solutions through exploration and learning of new technologies and tools.
+I am currently studying data engineering and have experience as a numerical analysis developer for the past few years. In addition to data engineering and quant development, I have a broad interest in various programming languages and theories. So I strive to find better solutions through exploration and learning of new technologies and tools.
 
-I will document my studies and challenges on my GitHub. I am Korean, so most of my posts will be written in my native language. If you ever need English to understand my content, feel free to ask for assistance.
+I will document my studies and challenges on my GitHub. I am Korean, so most of my posts will be written in my native language. If you ever need English to understand my content, do not hesitate to ask me for assistance.
 
 As a developer open to opportunities for communication and sharing, I look forward to the chance to grow and learn together. Please feel free to reach out at any time.
 
