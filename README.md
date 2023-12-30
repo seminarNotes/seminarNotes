@@ -4,6 +4,8 @@ Thank you so much for visiting my GitHub page. I am currently studying data engi
 
 In addition to data engineering and quant development, I have a broad interest in various programming languages and theories. I strive to find better solutions through exploration and learning of new technologies and tools.
 
+I will document my studies and challenges on my GitHub. I am Korean, so most of my posts will be written in my native language. If you ever need English to understand my content, feel free to ask for assistance.
+
 As a developer open to opportunities for communication and sharing, I look forward to the chance to grow and learn together. Please feel free to reach out at any time.
 
 #### 📚 STACKS
