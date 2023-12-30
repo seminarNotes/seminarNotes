@@ -11,6 +11,11 @@ As a developer who values opportunities for communication and sharing, I am exci
 Best regards,  
 SeminarNotes
 
+#### 📚 STREAK
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=seminarNotes&locale=ko&card_width=500)](https://git.io/streak-stats)
+
+
 
 #### 📚 STACKS
 Programming Languages:
@@ -41,6 +46,10 @@ Operating System: <img src="https://img.shields.io/badge/windows-0078D4?style=fo
 
 
 
+
+
+
+
 <!--
 **seminarNotes/seminarNotes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -54,4 +63,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seminarNotes&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=seminarNotes&show_icons=true">
+
 -->
