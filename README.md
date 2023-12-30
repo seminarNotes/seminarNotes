@@ -8,8 +8,9 @@ I will be documenting my studies and challenges right here on my GitHub. Despite
 
 As a developer who values opportunities for communication and sharing, I am excited about the prospect of growing and learning together. Please feel free to reach out at any time.
 
-Best regards,
+Best regards,  
 SeminarNotes
+
 
 #### 📚 STACKS
 Programming Languages:
