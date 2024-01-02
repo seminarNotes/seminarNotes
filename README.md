@@ -1,6 +1,6 @@
 #### 👋 HELLO
 
-[ENG] Thank you for visiting my GitHub page.
+Thank you for visiting my GitHub page.
 
 I am currently immersed in the study of data engineering and bring with me two years of experience as a numerical analysis developer. Beyond my focus on data engineering and quant development, I maintain a wide-ranging interest in various programming languages and theories. My goal is to discover improved solutions by exploring and mastering new technologies and tools.
 
