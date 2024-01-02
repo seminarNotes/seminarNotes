@@ -17,7 +17,6 @@ SeminarNotes
 [![GitHub Streak](https://streak-stats.demolab.com?user=seminarNotes&locale=ko&card_width=500)](https://git.io/streak-stats)
 
 
-
 #### 📚 STACKS
 Programming Languages:
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
@@ -40,6 +39,7 @@ Search Engine:
 Operating System: <img src="https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&logoColor=black">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seminarNotes&layout=compact"><br><br>
 
 
 
