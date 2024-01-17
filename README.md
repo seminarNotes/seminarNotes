@@ -11,7 +11,7 @@ As a developer who values opportunities for communication and sharing, I am exci
 Best regards,  
 SeminarNotes
 
-<iframe src="ㅇpika.html"></iframe>
+<iframe src="pika.html"></iframe>
 
 #### 📚 STREAK
 
