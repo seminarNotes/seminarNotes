@@ -51,85 +51,86 @@ Operating System: <img src="https://img.shields.io/badge/windows-0078D4?style=fo
 -->
 
 <!-- Languages and Tools -->
+
 <div align="center">
     <table>
         <tr>
-            <td width="55%" align="center">
+            <td align="center">
                 <b>Programming Language</b>
             </td>
-            <td height="100%" align="center">
+            <td align="center">
                 <b>IDE</b>
             </td>
-            <td height="100%" align="center">
+            <td align="center">
                 <b>OS</b>
             </td>
         </tr>
         <tr> 
-            <td width="55%" align="center">
+            <td align="center">
                 <b>
                     <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40"></a>
                     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
                     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
                 </b>
             </td>
-            <td height="100%" align="center">
+            <td align="center">
                 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="40"></a>
                 <!-- 다른 IDE 아이콘들도 여기에 추가 -->
             </td>
-            <td height="100%" align="center">
+            <td align="center">
                 <a href="https://www.microsoft.com/ko-kr/software-download/windows10" target="_blank" rel="noreferrer"><img src="https://github.com/JunGyuRyu/JunGyuRyu/assets/88473185/89a0e21a-06e5-42c4-a12a-17b8a55675ee" alt="windows10-color" width="40"></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
             </td>
         </tr>
         <tr>
-            <td width="55%" align="center">
+            <td align="center">
                 <b>ML Library</b>
             </td>
-            <td height="100%" align="center">
+            <td align="center">
                 <b>DataBase</b>
             </td>
-            <td height="100%" align="center">
+            <td align="center">
                 <b>Docker</b>
             </td>
         </tr>
         <tr> 
-            <td height="100%" align="center">
+            <td align="center">
                 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
                     <a href="https://keras.io" target="_blank" rel="noreferrer"><img src="https://github.com/JunGyuRyu/JunGyuRyu/assets/88473185/49cd8620-08e2-4c28-b7aa-99a42cc375d3" alt="keras-color" width="40"></a>
                     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
                     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
             </td>
-            <td width="55%" align="center">
+            <td align="center">
                 <b>
                     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
                     <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
                      <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
                 </b>
             </td>
-            <td height="100%" align="center">
+            <td align="center">
                 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
             </td>
         </tr>
         <tr>
-            <td height="100%" align="center">
+            <td align="center">
                 <b>Python Library</b>
             </td>
-            <td width="55%" align="center">
+            <td align="center">
                 <b>Elastic Stack</b>
             </td>
-            <td height="100%" align="center">
+            <td align="center">
                 <b>Git</b>
             </td>
         </tr>
         <tr> 
-            <td width="55%" align="center">
+            <td align="center">
                 <b>
                 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
                 </b>
             </td>
-            <td height="100%" align="center">
+            <td align="center">
                  <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/></a>  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> 
             </td>
-            <td height="100%" align="center">
+            <td align="center">
                 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
                 <a><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
             </td>
