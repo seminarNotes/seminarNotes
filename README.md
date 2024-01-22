@@ -5,6 +5,7 @@
 
 -->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=20:ffffff,100:0000ff&height=150&section=header&text=JunhuiWoo&fontSize=50&fontAlign=79&fontAlignY=30&animation=fadeIn&fontColor=d6ace6&desc=Junior%20Data%20Engineer&descSize=20&rotate=0&descAlign=80&descAlignY=55" style="object-fit: contain; width: 100%;" alt="header">
 
 #### 👋 HELLO
 
@@ -48,22 +49,13 @@ Search Engine:
 Operating System: <img src="https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&logoColor=black">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
-
-
-
-
-
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=20:ffffff,100:0000ff&height=130" style="object-fit: contain; width: 100%;" alt="footer">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seminarNotes&layout=compact"><br><br>
 
 
 
 
-
-
 <!--
-
-
 **seminarNotes/seminarNotes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
