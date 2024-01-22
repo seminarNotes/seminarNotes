@@ -1,8 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=20:00ff00,100:ffffff&height=150&section=header&text=JunhuiWoo&fontSize=50&fontAlign=79&fontAlignY=30&animation=fadeIn&fontColor=000000&desc=Junior%20Data%20Engineer&descSize=20&rotate=0&descAlign=80&descAlignY=55" style="object-fit: contain; width: 100%;" alt="header">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=20:0000ff,100:00ff00&height=150&section=header&text=JunhuiWoo&fontSize=50&fontAlign=79&fontAlignY=30&animation=fadeIn&fontColor=000000&desc=Junior%20Data%20Engineer&descSize=20&rotate=0&descAlign=80&descAlignY=55" style="object-fit: contain; width: 100%;" alt="header">
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=20:ffffff,100:00ff00&height=150&section=header&text=JunhuiWoo&fontSize=50&fontAlign=79&fontAlignY=30&animation=fadeIn&fontColor=000000&desc=Junior%20Data%20Engineer&descSize=20&rotate=0&descAlign=80&descAlignY=55" style="object-fit: contain; width: 100%;" alt="header"> -->
-
-
 
 #### 👋 HELLO
 
@@ -147,6 +145,7 @@ Operating System: <img src="https://img.shields.io/badge/windows-0078D4?style=fo
     </table>
 </div>
 
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=20:00ff00,100:0000ff&height=130" style="object-fit: contain; width: 100%;" alt="footer">
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seminarNotes&layout=compact"><br><br>
