@@ -11,6 +11,8 @@ As a developer who values opportunities for communication and sharing, I am exci
 Best regards,  
 SeminarNotes
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 #### 📚 STACKS
 Programming Languages:
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
