@@ -48,7 +48,7 @@ Search Engine:
 Operating System: <img src="https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&logoColor=black">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
-<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=20:ffffff,100:0000ff&height=130" style="object-fit: contain; width: 100%;" alt="footer">
+
 
 
 
@@ -60,7 +60,7 @@ Operating System: <img src="https://img.shields.io/badge/windows-0078D4?style=fo
 
 
 <!--
-
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=20:ffffff,100:0000ff&height=130" style="object-fit: contain; width: 100%;" alt="footer">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seminarNotes&layout=compact"><br><br>
 
 
