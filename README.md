@@ -11,7 +11,9 @@ As a developer who values opportunities for communication and sharing, I am exci
 Best regards,  
 SeminarNotes
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+#### 📚 CONTRIBUTIONS
+
+profile-3d-contrib/profile-gitblock.svg
 
 #### 📚 STACKS
 Programming Languages:
