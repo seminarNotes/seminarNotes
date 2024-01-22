@@ -13,8 +13,9 @@ Best regards,
 SeminarNotes
 
 #### 📚 CONTRIBUTIONS
-<!-- ![](./profile-3d-contrib/profile-gitblock.svg) -->
-<!-- ![](./profile-3d-contrib/profile-night-view.svg) -->
+<!-- ![](./profile-3d-contrib/profile-gitblock.svg) 
+![](./profile-3d-contrib/profile-night-view.svg) 
+-->
 ![](./profile-3d-contrib/profile-night-green.svg)
 
 
@@ -40,12 +41,6 @@ Search Engine:
 Operating System: <img src="https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&logoColor=black">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seminarNotes&layout=compact"><br><br>
-
-
-
-
-
 
 
 
@@ -53,6 +48,10 @@ Operating System: <img src="https://img.shields.io/badge/windows-0078D4?style=fo
 
 
 <!--
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seminarNotes&layout=compact"><br><br>
+
+
 **seminarNotes/seminarNotes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
