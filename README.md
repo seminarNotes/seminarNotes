@@ -14,7 +14,7 @@ SeminarNotes
 
 #### 📚 Contributions
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
 #### 📚 STACKS
 Programming Languages:
