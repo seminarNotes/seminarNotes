@@ -12,10 +12,9 @@ Best regards,
 SeminarNotes
 
 
-#### 📚 STREAK
+#### 📚 Contributions
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=seminarNotes&locale=ko&card_width=500)](https://git.io/streak-stats)
-
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 #### 📚 STACKS
 Programming Languages:
