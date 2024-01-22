@@ -1,3 +1,4 @@
+<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90) -->
 #### 👋 HELLO
 
 Thank you for visiting my GitHub page.
@@ -12,8 +13,9 @@ Best regards,
 SeminarNotes
 
 #### 📚 CONTRIBUTIONS
-![](./profile-3d-contrib/profile-gitblock.svg)
-
+<!-- ![](./profile-3d-contrib/profile-gitblock.svg) -->
+<!-- ![](./profile-3d-contrib/profile-night-view.svg) -->
+![](./profile-3d-contrib/profile-night-green.svg)
 
 
 #### 📚 STACKS
