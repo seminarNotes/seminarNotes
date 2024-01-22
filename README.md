@@ -12,8 +12,9 @@ Best regards,
 SeminarNotes
 
 #### 📚 CONTRIBUTIONS
+![](./profile-3d-contrib/profile-gitblock.svg)
 
-profile-3d-contrib/profile-gitblock.svg
+
 
 #### 📚 STACKS
 Programming Languages:
