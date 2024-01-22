@@ -26,6 +26,8 @@ SeminarNotes
 
 #### 📚 STACKS
 <!--
+초기 stack 구성성
+
 Programming Languages:
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 
@@ -50,8 +52,6 @@ Operating System: <img src="https://img.shields.io/badge/windows-0078D4?style=fo
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=20:ffffff,100:00ff00&height=130" style="object-fit: contain; width: 100%;" alt="footer">
 -->
 
-<!-- Languages and Tools -->
-
 <div align="center">
     <table>
         <tr>
@@ -63,6 +63,9 @@ Operating System: <img src="https://img.shields.io/badge/windows-0078D4?style=fo
             </td>
             <td align="center">
                 <b>OS</b>
+            </td>
+            <td align="center">
+                <b>ML Library</b>
             </td>
         </tr>
         <tr> 
@@ -80,25 +83,28 @@ Operating System: <img src="https://img.shields.io/badge/windows-0078D4?style=fo
             <td align="center">
                 <a href="https://www.microsoft.com/ko-kr/software-download/windows10" target="_blank" rel="noreferrer"><img src="https://github.com/JunGyuRyu/JunGyuRyu/assets/88473185/89a0e21a-06e5-42c4-a12a-17b8a55675ee" alt="windows10-color" width="40"></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
             </td>
-        </tr>
-        <tr>
-            <td align="center">
-                <b>ML Library</b>
-            </td>
-            <td align="center">
-                <b>DataBase</b>
-            </td>
-            <td align="center">
-                <b>Docker</b>
-            </td>
-        </tr>
-        <tr> 
             <td align="center">
                 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
                     <a href="https://keras.io" target="_blank" rel="noreferrer"><img src="https://github.com/JunGyuRyu/JunGyuRyu/assets/88473185/49cd8620-08e2-4c28-b7aa-99a42cc375d3" alt="keras-color" width="40"></a>
                     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
                     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
             </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <b>DataBase</b>
+            </td>
+            <td align="center">
+                <b>Docker</b>
+            </td>
+            <td align="center">
+                <b>Python Library</b>
+            </td>
+            <td align="center">
+                <b>Elastic Stack</b>
+            </td>
+        </tr>
+        <tr> 
             <td align="center">
                 <b>
                     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
@@ -109,19 +115,6 @@ Operating System: <img src="https://img.shields.io/badge/windows-0078D4?style=fo
             <td align="center">
                 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
             </td>
-        </tr>
-        <tr>
-            <td align="center">
-                <b>Python Library</b>
-            </td>
-            <td align="center">
-                <b>Elastic Stack</b>
-            </td>
-            <td align="center">
-                <b>Git</b>
-            </td>
-        </tr>
-        <tr> 
             <td align="center">
                 <b>
                 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
@@ -130,16 +123,21 @@ Operating System: <img src="https://img.shields.io/badge/windows-0078D4?style=fo
             <td align="center">
                  <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/></a>  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> 
             </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <b>Git</b>
+            </td>
+            <td colspan="3" align="center">
+                <b>Other Stacks</b>
+            </td>
+        </tr>
+        <tr>
             <td align="center">
                 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
                 <a><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
             </td>
-        </tr>
-        <tr align="center">
-            <td colspan="3"><b>Other Stacks</b></td>
-        </tr>
-        <tr align="center">
-            <td colspan="3">
+            <td colspan="3" align="center">
                 <b>
                     <!-- 다른 스택 아이콘들도 여기에 추가 -->
                      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
@@ -148,6 +146,7 @@ Operating System: <img src="https://img.shields.io/badge/windows-0078D4?style=fo
         </tr>
     </table>
 </div>
+
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seminarNotes&layout=compact"><br><br>
