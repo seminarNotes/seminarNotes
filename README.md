@@ -1,7 +1,9 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90) -->
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=20:ffffff&height=250&section=header&text=capsule%20render&fontSize=40&desc=Hello%20capsule%20render&descSize=15) -->
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=20:ffffff&height=250&section=header&text=capsule%20render&fontSize=40&desc=Hello%20capsule%20render&descSize=15) 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=20:ffffff,100:0000ff&height=150&section=header&text=JunhuiWoo&fontSize=50&fontAlign=79&fontAlignY=30&animation=fadeIn&fontColor=d6ace6&desc=Junior%20Data%20Engineer&descSize=20&rotate=0&descAlign=80&descAlignY=55" style="object-fit: contain; width: 100%;" alt="header">
 
+
+-->
 
 
 #### 👋 HELLO
@@ -45,6 +47,11 @@ Search Engine:
 
 Operating System: <img src="https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&logoColor=black">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=20:ffffff,100:0000ff&height=130" style="object-fit: contain; width: 100%;" alt="footer">
+
+
+
 
 
 
