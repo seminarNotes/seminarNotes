@@ -60,18 +60,18 @@ Operating System: <img src="https://img.shields.io/badge/windows-0078D4?style=fo
                 <b>IDE</b>
             </td>
             <td align="center">
-                <b>OS</b>
+                <b>Hadoop</b>
             </td>
             <td align="center">
-                <b>ML Library</b>
+                <b>Git</b>
             </td>
         </tr>
         <tr> 
             <td align="center">
                 <b>
-                    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40"></a>
-                    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-                    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+              <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40"></a>
+              <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+              <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
                 </b>
             </td>
             <td align="center">
@@ -79,13 +79,11 @@ Operating System: <img src="https://img.shields.io/badge/windows-0078D4?style=fo
                 <!-- 다른 IDE 아이콘들도 여기에 추가 -->
             </td>
             <td align="center">
-                <a href="https://www.microsoft.com/ko-kr/software-download/windows10" target="_blank" rel="noreferrer"><img src="https://github.com/JunGyuRyu/JunGyuRyu/assets/88473185/89a0e21a-06e5-42c4-a12a-17b8a55675ee" alt="windows10-color" width="40"></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+                <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>
             </td>
             <td align="center">
-                <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-                    <a href="https://keras.io" target="_blank" rel="noreferrer"><img src="https://github.com/JunGyuRyu/JunGyuRyu/assets/88473185/49cd8620-08e2-4c28-b7aa-99a42cc375d3" alt="keras-color" width="40"></a>
-                    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-                    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+                <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+                <a><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
             </td>
         </tr>
         <tr>
@@ -126,16 +124,16 @@ Operating System: <img src="https://img.shields.io/badge/windows-0078D4?style=fo
         </tr>
         <tr>
             <td align="center">
-                <b>Git</b>
+                <b>ML Library</b>
             </td>
             <td  align="center">
                 <b>Messaging</b>
             </td>
             <td  align="center">
-                <b>Hadoop</b>
+                <b>Numercial Tool</b>
             </td>
             <td  align="center">
-                <b>Numerical Tool</b>
+                <b>OS</b>
             </td>
             <!-- <td colspan="2" align="center">
                 <b>Other Stacks</b>
@@ -143,21 +141,17 @@ Operating System: <img src="https://img.shields.io/badge/windows-0078D4?style=fo
         </tr>
         <tr>
             <td align="center">
-                <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-                <a><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+                <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+                <a href="https://keras.io" target="_blank" rel="noreferrer"><img src="https://github.com/JunGyuRyu/JunGyuRyu/assets/88473185/49cd8620-08e2-4c28-b7aa-99a42cc375d3" alt="keras-color" width="40"></a>
+                <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+                <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
             </td>
             <td align="center">
              <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
             <td align="center">
-            <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
             <td align="center">
-            <!-- <td colspan="2" align="center">
-                <b>Other Stacks</b>
-            </td> -->
-                <b>
-                    <!-- 다른 스택 아이콘들도 여기에 추가 -->
-                     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-                </b>
+              <a href="https://www.microsoft.com/ko-kr/software-download/windows10" target="_blank" rel="noreferrer"><img src="https://github.com/JunGyuRyu/JunGyuRyu/assets/88473185/89a0e21a-06e5-42c4-a12a-17b8a55675ee" alt="windows10-color" width="40"></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
             </td>
         </tr>
     </table>
