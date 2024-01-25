@@ -60,7 +60,7 @@ Operating System: <img src="https://img.shields.io/badge/windows-0078D4?style=fo
                 <b>IDE</b>
             </td>
             <td align="center">
-                <b>Hadoop</b>
+                <b>Framework</b>
             </td>
             <td align="center">
                 <b>Git</b>
