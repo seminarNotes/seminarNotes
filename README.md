@@ -15,6 +15,11 @@ As a developer who values opportunities for communication and sharing, I am exci
 Best regards,  
 SeminarNotes
 
+
+#### 📝 Recent Project 
+[Hadoop Engin](https://github.com/seminarNotes/engineering--smartcar-real-time-log-processing) which I have been working on since January 20th.
+
+
 #### 📚 CONTRIBUTIONS
 <!-- ![](./profile-3d-contrib/profile-gitblock.svg) 
 ![](./profile-3d-contrib/profile-night-view.svg) 
