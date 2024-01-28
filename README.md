@@ -17,7 +17,7 @@ SeminarNotes
 
 
 #### 📝 Recent Project 
-[Hadoop Engin](https://github.com/seminarNotes/engineering--smartcar-real-time-log-processing) which I have been working on since January 20th.
+Since January 20th, I have been working on [this project](https://github.com/seminarNotes/engineering--smartcar-real-time-log-processing) with the Hadoop ecosystem built using Cloudera. 
 
 
 #### 📚 CONTRIBUTIONS
