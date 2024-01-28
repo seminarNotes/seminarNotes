@@ -2,6 +2,9 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=20:ffffff,100:00ff00&height=150&section=header&text=JunhuiWoo&fontSize=50&fontAlign=79&fontAlignY=30&animation=fadeIn&fontColor=000000&desc=Junior%20Data%20Engineer&descSize=20&rotate=0&descAlign=80&descAlignY=55" style="object-fit: contain; width: 100%;" alt="header"> -->
 
+#### 📝 Recent Project 
+Since January 20th, I have been working on [this project](https://github.com/seminarNotes/engineering--smartcar-real-time-log-processing) with the Hadoop ecosystem built using Cloudera. 
+
 #### 👋 HELLO
 
 Thank you for visiting my GitHub page.
@@ -14,11 +17,6 @@ As a developer who values opportunities for communication and sharing, I am exci
 
 Best regards,  
 SeminarNotes
-
-
-#### 📝 Recent Project 
-Since January 20th, I have been working on [this project](https://github.com/seminarNotes/engineering--smartcar-real-time-log-processing) with the Hadoop ecosystem built using Cloudera. 
-
 
 #### 📚 CONTRIBUTIONS
 <!-- ![](./profile-3d-contrib/profile-gitblock.svg) 
